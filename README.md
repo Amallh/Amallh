@@ -4,8 +4,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/amal-lahchim-79b3a6234/">LinkedIn</a> ·
   <a href="https://huggingface.co/amal90888">Hugging Face</a> ·
+  <a href="https://gitlab.com/radiology/radiomics/lai/vision_language_models/liver-lesion-vlm">GitLab</a> ·
   <a href="https://orcid.org/0009-0003-0449-8336">ORCID</a> ·
-  <a href="https://gitlab.com/radiology/radiomics/lai/vision_language_models/liver-lesion-vlm">GitLab</a>.
   <a href="mailto:amaallahchim123@gmail.com">Email</a>
 </p>
 
@@ -15,7 +15,7 @@
 
 I'm a Machine Learning Engineer and Biomedical Engineering researcher specializing in **artificial intelligence for healthcare applications**. I recently completed my Erasmus Mundus Master's in Biomedical Engineering, with thesis research at **Erasmus Medical Center** focused on developing and evaluating vision-language models for liver lesion diagnosis.
 
-My work combines machine learning, medical image analysis, and NLP, with experience building and deploying AI systems for real-time speech processing, computer vision, and clinical applications. My research interests include medical imaging, multimodal AI, reproducible machine learning, and applying AI to improve clinical decision-making.
+My work combines machine learning, medical image analysis, and NLP — with experience building and deploying AI systems for real-time speech processing, computer vision, and clinical applications. My research interests include medical imaging, multimodal AI, reproducible machine learning, and applying AI to improve clinical decision-making.
 
 ---
 
@@ -39,7 +39,7 @@ My work combines machine learning, medical image analysis, and NLP, with experie
 
 ---
 
-### Publications & Research Outputs
+###  Publications & Research Outputs
 
 - **Regulatory Compass: Your Guide to Medical Device Laws** — Book, 2026 · with Khadija Khan · [DOI: 10.5281/zenodo.18505588](https://doi.org/10.5281/zenodo.18505588)
 - **Intracoronary Optical Coherence Tomography Image Processing and Vessel Classification Using Machine Learning** — Preprint, 2026 · with Lambros Athanasiou · [DOI: 10.48550/arXiv.2602.15579](https://doi.org/10.48550/arXiv.2602.15579)
@@ -52,24 +52,24 @@ Full, up-to-date list: [ORCID: 0009-0003-0449-8336](https://orcid.org/0009-0003-
 
 ---
 
-### Education
+###  Education
 
-- **MSc. Biomedical Engineering**: Erasmus Mundus, EMMBIOME (Patras, Greece — multi-university) · Oct 2024 – Jul 2026
-- **Master's Thesis**: Radiology & Nuclear Medicine, Erasmus Medical Center, Rotterdam · Feb 2026 – Jul 2026
-- **MSc. Artificial Intelligence & Robotics**:University of Jordan · Sep 2023 – Jul 2024
-- **BSc. Biomedical Engineering**: Jordan University of Science & Technology · Sep 2018 – Jul 2023
-
----
-
-### Experience
-
-- **Master's Thesis Researcher**: Erasmus MC, Rotterdam · Feb 2026 – Jul 2026
-- **AI Developer**: Ofoundation, Utrecht · Apr 2025 – Oct 2025
-- **Team Lead & Machine Learning Engineer**: CNTXT AI, Abu Dhabi · Apr 2024 – Mar 2025
-- **Service & Validation Engineer Intern**: Cadmium Laboratory Equipment · 2023
-- **Trainee, Laboratory Equipment**: New Universal Laboratory Equipment · 2023
-- **Trainee Biomedical Engineer**: Siemens Healthineers · 2022
+- **MSc. Biomedical Engineering** — [Erasmus Mundus, EMMBIOME](http://emmbiome.eu/) (Patras, Greece — multi-university, EU-funded) · Oct 2024 – Jul 2026
+- **Master's Thesis** — Radiology & Nuclear Medicine, [Erasmus Medical Center](https://www.erasmusmc.nl/nl-nl/), Rotterdam · Feb 2026 – Jul 2026
+- **MSc. Artificial Intelligence & Robotics** — [University of Jordan](https://www.ju.edu.jo/Home.aspx) · Sep 2023 – Jul 2024
+- **BSc. Biomedical Engineering** (Cum Laude) — [Jordan University of Science & Technology](https://www.just.edu.jo/Pages/Default.aspx) · Sep 2018 – Jul 2023
 
 ---
 
-<p align="center">📫 Reach me at <a href="mailto:amaallahchim123@gmail.com">amaallahchim123@gmail.com</a></p>
+###  Experience
+
+- **Master's Thesis Researcher** — [Erasmus MC](https://www.erasmusmc.nl/nl-nl/), Rotterdam · Feb 2026 – Jul 2026
+- **AI Developer** — [Ofoundation](https://ofoundation.nl/), Utrecht · Apr 2025 – Oct 2025
+- **Team Lead & Machine Learning Engineer** — [CNTXT AI](https://www.cntxt.tech/), Abu Dhabi · Apr 2024 – Mar 2025
+- **Service & Validation Engineer Intern** — Cadmium Laboratory Equipment · 2023
+- **Trainee, Laboratory Equipment** — New Universal Laboratory Equipment · 2023
+- **Trainee Biomedical Engineer** — Siemens Healthineers · 2022
+
+---
+
+<p align="center"> Reach me at <a href="mailto:amaallahchim123@gmail.com">amaallahchim123@gmail.com</a></p>
