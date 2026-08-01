@@ -26,7 +26,7 @@ My work combines machine learning, medical image analysis, and NLP, with experie
 
 ---
 
-### 📌 Projects
+###  Projects
 
 | Project | Description | Tech | Link |
 |---|---|---|---|
@@ -38,7 +38,7 @@ My work combines machine learning, medical image analysis, and NLP, with experie
 
 ---
 
-### 📄 Publications & Research Outputs
+### Publications & Research Outputs
 
 - **Regulatory Compass: Your Guide to Medical Device Laws** — Book, 2026 · with Khadija Khan · [DOI: 10.5281/zenodo.18505588](https://doi.org/10.5281/zenodo.18505588)
 - **Intracoronary Optical Coherence Tomography Image Processing and Vessel Classification Using Machine Learning** — Preprint, 2026 · with Lambros Athanasiou · [DOI: 10.48550/arXiv.2602.15579](https://doi.org/10.48550/arXiv.2602.15579)
@@ -51,7 +51,7 @@ Full, up-to-date list: [ORCID: 0009-0003-0449-8336](https://orcid.org/0009-0003-
 
 ---
 
-### 🎓 Education
+### Education
 
 - **MSc. Biomedical Engineering** — Erasmus Mundus, EMMBIOME (Patras, Greece — multi-university) · Oct 2024 – Jul 2026
 - **Master's Thesis** — Radiology & Nuclear Medicine, Erasmus Medical Center, Rotterdam · Feb 2026 – Jul 2026
@@ -60,7 +60,7 @@ Full, up-to-date list: [ORCID: 0009-0003-0449-8336](https://orcid.org/0009-0003-
 
 ---
 
-### 💼 Experience
+### Experience
 
 - **Master's Thesis Researcher** — Erasmus MC, Rotterdam · Feb 2026 – Jul 2026
 - **AI Developer** — Ofoundation, Utrecht · Apr 2025 – Oct 2025
