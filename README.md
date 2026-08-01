@@ -18,7 +18,7 @@ My work combines machine learning, medical image analysis, and NLP, with experie
 
 ---
 
-### 🛠️ Skills
+###  Skills
 
 `Python` `C++` `SQL` · `TensorFlow` `PyTorch` `scikit-learn` · `Pandas` `NumPy` `Matplotlib` `Seaborn`
 `DICOM` `PACS` `Medical Image Analysis` · `Git` `Jenkins` · `AWS` `CI/CD`
@@ -53,21 +53,21 @@ Full, up-to-date list: [ORCID: 0009-0003-0449-8336](https://orcid.org/0009-0003-
 
 ### Education
 
-- **MSc. Biomedical Engineering** — Erasmus Mundus, EMMBIOME (Patras, Greece — multi-university) · Oct 2024 – Jul 2026
-- **Master's Thesis** — Radiology & Nuclear Medicine, Erasmus Medical Center, Rotterdam · Feb 2026 – Jul 2026
-- **MSc. Artificial Intelligence & Robotics** — University of Jordan · Sep 2023 – Jul 2024
-- **BSc. Biomedical Engineering** (Cum Laude) — Jordan University of Science & Technology · Sep 2018 – Jul 2023
+- **MSc. Biomedical Engineering**: Erasmus Mundus, EMMBIOME (Patras, Greece — multi-university) · Oct 2024 – Jul 2026
+- **Master's Thesis**: Radiology & Nuclear Medicine, Erasmus Medical Center, Rotterdam · Feb 2026 – Jul 2026
+- **MSc. Artificial Intelligence & Robotics**:University of Jordan · Sep 2023 – Jul 2024
+- **BSc. Biomedical Engineering**: Jordan University of Science & Technology · Sep 2018 – Jul 2023
 
 ---
 
 ### Experience
 
-- **Master's Thesis Researcher** — Erasmus MC, Rotterdam · Feb 2026 – Jul 2026
-- **AI Developer** — Ofoundation, Utrecht · Apr 2025 – Oct 2025
-- **Team Lead & Machine Learning Engineer** — CNTXT AI, Abu Dhabi · Apr 2024 – Mar 2025
-- **Service & Validation Engineer Intern** — Cadmium Laboratory Equipment · 2023
-- **Trainee, Laboratory Equipment** — New Universal Laboratory Equipment · 2023
-- **Trainee Biomedical Engineer** — Siemens Healthineers · 2022
+- **Master's Thesis Researcher**: Erasmus MC, Rotterdam · Feb 2026 – Jul 2026
+- **AI Developer**: Ofoundation, Utrecht · Apr 2025 – Oct 2025
+- **Team Lead & Machine Learning Engineer**: CNTXT AI, Abu Dhabi · Apr 2024 – Mar 2025
+- **Service & Validation Engineer Intern**: Cadmium Laboratory Equipment · 2023
+- **Trainee, Laboratory Equipment**: New Universal Laboratory Equipment · 2023
+- **Trainee Biomedical Engineer**: Siemens Healthineers · 2022
 
 ---
 
