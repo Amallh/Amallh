@@ -5,6 +5,7 @@
   <a href="https://www.linkedin.com/in/amal-lahchim-79b3a6234/">LinkedIn</a> ·
   <a href="https://huggingface.co/amal90888">Hugging Face</a> ·
   <a href="https://orcid.org/0009-0003-0449-8336">ORCID</a> ·
+  <a href="https://gitlab.com/radiology/radiomics/lai/vision_language_models/liver-lesion-vlm">GitLab</a> 
   <a href="mailto:amaallahchim123@gmail.com">Email</a>
 </p>
 
