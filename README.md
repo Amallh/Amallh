@@ -57,7 +57,7 @@ Full, up-to-date list: [ORCID: 0009-0003-0449-8336](https://orcid.org/0009-0003-
 - **MSc. Biomedical Engineering** — [Erasmus Mundus, EMMBIOME]([(https://erasmus-plus.ec.europa.eu/projects/search/details/101082688)]) (Patras, Greece — multi-university, EU-funded) · Oct 2024 – Jul 2026
 - **Master's Thesis** — Radiology & Nuclear Medicine, [Erasmus Medical Center](https://www.erasmusmc.nl/nl-nl/), Rotterdam · Feb 2026 – Jul 2026
 - **MSc. Artificial Intelligence & Robotics** — [University of Jordan](https://www.ju.edu.jo/Home.aspx) · Sep 2023 – Jul 2024
-- **BSc. Biomedical Engineering** (Cum Laude) — [Jordan University of Science & Technology](https://www.just.edu.jo/Pages/Default.aspx) · Sep 2018 – Jul 2023
+- **BSc. Biomedical Engineering**  — [Jordan University of Science & Technology](https://www.just.edu.jo/Pages/Default.aspx) · Sep 2018 – Jul 2023
 
 ---
 
