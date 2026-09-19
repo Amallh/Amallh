@@ -6,7 +6,6 @@
   <a href="https://huggingface.co/amal90888">Hugging Face</a> ·
   <a href="https://gitlab.com/radiology/radiomics/lai/vision_language_models/liver-lesion-vlm">GitLab</a> ·
   <a href="https://orcid.org/0009-0003-0449-8336">ORCID</a> ·
-  <a href="mailto:amaallahchim123@gmail.com">Email</a>
 </p>
 
 ---
@@ -72,4 +71,4 @@ Full, up-to-date list: [ORCID: 0009-0003-0449-8336](https://orcid.org/0009-0003-
 
 ---
 
-<p align="center"> Reach me at <a href="mailto:amaallahchim123@gmail.com">amaallahchim123@gmail.com</a></p>
+
