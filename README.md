@@ -166,16 +166,8 @@ Full list on [ORCID](https://orcid.org/0009-0003-0449-8336).
 ## 📊 GitHub activity
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Amallh&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Amallh&theme=radical&hide_border=true" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=Amallh&theme=radical&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amallh&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Amallh&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 <p align="center">
