@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24&height=220&section=header&text=Amal%20Lahchim&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20for%20Healthcare%20%E2%80%A2%20Medical%20Imaging%20%E2%80%A2%20Multimodal%20ML&descAlignY=58&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Amal%20Lahchim&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20for%20Healthcare%20%E2%80%A2%20Medical%20Imaging%20%E2%80%A2%20Multimodal%20ML&descAlignY=58&descSize=18" />
 </p>
 
 <p align="center">
