@@ -144,22 +144,15 @@ Full list on [ORCID](https://orcid.org/0009-0003-0449-8336).
 
 ## Experience
 
-```text
-2026  ●  Master's Thesis Researcher ............ Erasmus MC, Rotterdam
-2025  ●  AI Developer .......................... Ofoundation, Utrecht
-2024  ●  Team Lead & ML Engineer ............... CNTXT AI, Abu Dhabi
-2023  ●  Service & Validation Engineer Intern .. Cadmium Laboratory Equipment
-2023  ●  Trainee, Laboratory Equipment ......... New Universal Laboratory Equipment
-2022  ●  Trainee Biomedical Engineer ........... Siemens Healthineers
-```
+<p align="center">
+  <img src="./assets/experience.svg" width="100%" alt="Experience timeline" />
+</p>
 
 ## Education
 
-```text
-2024-26  ●  MSc Biomedical Engineering - Erasmus Mundus EMMBIOME (EU)
-2023-24  ●  MSc Artificial Intelligence & Robotics - University of Jordan
-2018-23  ●  BSc Biomedical Engineering - Jordan Univ. of Science & Technology
-```
+<p align="center">
+  <img src="./assets/education.svg" width="100%" alt="Education timeline" />
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
