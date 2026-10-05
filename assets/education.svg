@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="210" viewBox="0 0 860 210" font-family="'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif">
+<style>
+.bg{fill:#141321}
+.role{fill:#ffffff;font-size:17px;font-weight:600}
+.org{fill:#fe428e;font-size:14px;font-weight:500}
+.meta{fill:#a9fef7;font-size:12px;font-weight:600}
+.pill{fill:#1f1d3a;stroke:#36BCF7;stroke-opacity:.5}
+.item{opacity:0;animation:in .7s cubic-bezier(.2,.8,.2,1) forwards}
+.line{stroke-dasharray:2000;stroke-dashoffset:2000;animation:draw 2.4s ease-out forwards}
+.dot{animation:pulse 2.4s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+.ring{fill:none;stroke:#fe428e;opacity:0;animation:ring 2.4s ease-out infinite;transform-box:fill-box;transform-origin:center}
+.card{fill:#1b1a2e;stroke:#2c2a4a}
+.item:hover .card{stroke:#36BCF7}
+@keyframes in{from{opacity:0;transform:translateY(18px)}to{opacity:1;transform:translateY(0)}}
+@keyframes draw{to{stroke-dashoffset:0}}
+@keyframes pulse{0%,100%{transform:scale(1)}50%{transform:scale(1.25)}}
+@keyframes ring{0%{opacity:.8;transform:scale(1)}100%{opacity:0;transform:scale(2.6)}}
+</style>
+<defs><linearGradient id="g" gradientUnits="userSpaceOnUse" x1="0" y1="40" x2="0" y2="460"><stop offset="0" stop-color="#36BCF7"/><stop offset=".5" stop-color="#a855f7"/><stop offset="1" stop-color="#fe428e"/></linearGradient>
+<linearGradient id="gh" gradientUnits="userSpaceOnUse" x1="40" y1="0" x2="820" y2="0"><stop offset="0" stop-color="#36BCF7"/><stop offset=".5" stop-color="#a855f7"/><stop offset="1" stop-color="#fe428e"/></linearGradient></defs>
+<rect class="bg" width="860" height="210" rx="14"/>
+<path class="line" d="M50.0 40 H 810.0" stroke="url(#gh)" stroke-width="3" stroke-linecap="round"/>
+<g class="item" style="animation-delay:0.40s">
+<circle class="ring" cx="156.0" cy="40" r="7" style="animation-delay:0.40s"/>
+<circle class="dot" cx="156.0" cy="40" r="7" fill="#fe428e" stroke="#141321" stroke-width="3" style="animation-delay:0.40s"/>
+<rect class="card" x="30.0" y="64" width="252" height="126" rx="12"/>
+<rect class="pill" x="103.3" y="78" width="105.4" height="22" rx="11"/>
+<text class="meta" x="156.0" y="93" text-anchor="middle">2024 – 2026</text>
+<text class="role" x="156.0" y="126" text-anchor="middle" font-size="16">MSc Biomedical Engineering</text>
+<text class="org" x="156.0" y="150" text-anchor="middle">Erasmus Mundus EMMBIOME</text>
+<text x="156.0" y="170" text-anchor="middle" fill="#8b8aa6" font-size="12">Patras, GR · multi-university EU</text>
+</g>
+<g class="item" style="animation-delay:0.75s">
+<circle class="ring" cx="430.0" cy="40" r="7" style="animation-delay:0.75s"/>
+<circle class="dot" cx="430.0" cy="40" r="7" fill="#fe428e" stroke="#141321" stroke-width="3" style="animation-delay:0.75s"/>
+<rect class="card" x="304.0" y="64" width="252" height="126" rx="12"/>
+<rect class="pill" x="377.3" y="78" width="105.4" height="22" rx="11"/>
+<text class="meta" x="430.0" y="93" text-anchor="middle">2023 – 2024</text>
+<text class="role" x="430.0" y="126" text-anchor="middle" font-size="16">MSc AI &amp; Robotics</text>
+<text class="org" x="430.0" y="150" text-anchor="middle">University of Jordan</text>
+<text x="430.0" y="170" text-anchor="middle" fill="#8b8aa6" font-size="12">Amman, JO</text>
+</g>
+<g class="item" style="animation-delay:1.10s">
+<circle class="ring" cx="704.0" cy="40" r="7" style="animation-delay:1.10s"/>
+<circle class="dot" cx="704.0" cy="40" r="7" fill="#fe428e" stroke="#141321" stroke-width="3" style="animation-delay:1.10s"/>
+<rect class="card" x="578.0" y="64" width="252" height="126" rx="12"/>
+<rect class="pill" x="651.3" y="78" width="105.4" height="22" rx="11"/>
+<text class="meta" x="704.0" y="93" text-anchor="middle">2018 – 2023</text>
+<text class="role" x="704.0" y="126" text-anchor="middle" font-size="16">BSc Biomedical Engineering</text>
+<text class="org" x="704.0" y="150" text-anchor="middle">Jordan Univ. of Science</text>
+<text x="704.0" y="170" text-anchor="middle" fill="#8b8aa6" font-size="12">&amp; Technology · Irbid, JO</text>
+</g>
+</svg>
