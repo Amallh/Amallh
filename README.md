@@ -166,7 +166,6 @@ Full list on [ORCID](https://orcid.org/0009-0003-0449-8336).
 ## 📊 GitHub activity
 
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com/?user=Amallh&theme=radical&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amallh&layout=compact&theme=radical&hide_border=true" />
 </p>
 
