@@ -23,22 +23,22 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🧬 About me
+## About me
 
 <img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=Amallh&show_icons=true&hide_border=true&theme=radical&count_private=true" />
 
-- 🎓 **Erasmus Mundus MSc** in Biomedical Engineering (EMMBIOME)
-- 🏥 Thesis at **Erasmus MC, Rotterdam** — vision-language models for liver lesion diagnosis
-- 🧠 Focus: **medical imaging · multimodal AI · reproducible ML**
-- 🎙️ Built production AI for **speech (ASR + diarization)** and **computer vision**
-- 📖 Co-author of *Regulatory Compass: Your Guide to Medical Device Laws* (2026)
-- 💬 Open to roles & collaborations in **AI for healthcare**
+- **Erasmus Mundus MSc** in Biomedical Engineering (EMMBIOME)
+- Thesis at **Erasmus MC, Rotterdam** - vision-language models for liver lesion diagnosis
+- Focus: **medical imaging · multimodal AI · reproducible ML**
+- Built production AI for **speech (ASR + diarization)** and **computer vision**
+- Co-author of *Regulatory Compass: Your Guide to Medical Device Laws* (2026)
+- Open to roles & collaborations in **AI for healthcare**
 
 <br clear="right"/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🛠️ Tech stack
+## Tech stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,mysql,pytorch,tensorflow,sklearn,git,jenkins,aws,docker,linux,vscode&perline=12" />
@@ -58,14 +58,14 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🚀 Featured projects
+## Featured projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🩻 Liver Lesion VLM
-Vision-language model for focal liver lesion classification from radiology imaging — **MSc thesis, Erasmus MC**.
+### Liver Lesion VLM
+Vision-language model for focal liver lesion classification from radiology imaging - **MSc thesis, Erasmus MC**.
 
 `VLM` `Medical Imaging` `Explainability`
 
@@ -74,20 +74,20 @@ Vision-language model for focal liver lesion classification from radiology imagi
 </td>
 <td width="50%" valign="top">
 
-### 🫁 COVID-19 CT Segmentation
+### COVID-19 CT Segmentation
 Attention-enhanced U-Net for infected lung region segmentation (preprint on arXiv).
 
 `PyTorch` `U-Net` `Attention`
 
-[Repo](https://github.com/Amallh/covid19-ct-segmentation) · [Model 🤗](https://huggingface.co/amal90888/unet-segmentation-model)
+[Repo](https://github.com/Amallh/covid19-ct-segmentation) · [Model](https://huggingface.co/amal90888/unet-segmentation-model)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### ⚡ EEG Seizure Detection
-Seizure detection from multichannel EEG — classical ML (PCA, CSP, SVM, XGBoost) vs. CNN.
+### EEG Seizure Detection
+Seizure detection from multichannel EEG - classical ML (PCA, CSP, SVM, XGBoost) vs. CNN.
 
 `Python` `PyTorch` `Signal Processing`
 
@@ -96,7 +96,7 @@ Seizure detection from multichannel EEG — classical ML (PCA, CSP, SVM, XGBoost
 </td>
 <td width="50%" valign="top">
 
-### 🎙️ Speaker Diarization & Transcription
+### Speaker Diarization & Transcription
 Whisper (ASR) + Pyannote (diarization) + Label Studio annotation pipeline.
 
 `Whisper` `Pyannote` `Audio AI`
@@ -108,12 +108,12 @@ Whisper (ASR) + Pyannote (diarization) + Label Studio annotation pipeline.
 <tr>
 <td colspan="2" valign="top">
 
-### ⚖️ EU Medical Regulations Q&A Dataset
+### EU Medical Regulations Q&A Dataset
 1,039 Q&A pairs from EU Regulation 2017/745 (MDR) for legal & compliance NLP / RAG.
 
 `RAG` `NLP` `Dataset`
 
-[Dataset 🤗](https://huggingface.co/datasets/amal90888/eu-regulations-qa) · [DOI](https://doi.org/10.5281/zenodo.18670510)
+[Dataset](https://huggingface.co/datasets/amal90888/eu-regulations-qa) · [DOI](https://doi.org/10.5281/zenodo.18670510)
 
 </td>
 </tr>
@@ -121,7 +121,7 @@ Whisper (ASR) + Pyannote (diarization) + Label Studio annotation pipeline.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📚 Publications & research outputs
+## Publications & research outputs
 
 <details open>
 <summary><b>Click to expand / collapse</b></summary>
@@ -129,12 +129,12 @@ Whisper (ASR) + Pyannote (diarization) + Label Studio annotation pipeline.
 
 | Year | Type | Title |
 |:---:|:---:|---|
-| 2026 | 📖 Book | **Regulatory Compass: Your Guide to Medical Device Laws** — with Khadija Khan · [DOI](https://doi.org/10.5281/zenodo.18505588) |
-| 2026 | 📄 Preprint | **Intracoronary OCT Image Processing & Vessel Classification Using ML** — with Lambros Athanasiou · [arXiv](https://doi.org/10.48550/arXiv.2602.15579) |
-| 2026 | 🗂️ Dataset | **Liver MRI LI-RADS Lexicon for VLM Explanation Generation (v2.0)** · [DOI](https://doi.org/10.5281/zenodo.21702498) |
-| 2026 | 📰 Journal | **Physiological Stress Detection Prototype Using ECG and PPG Signals** |
-| 2025 | 📄 Preprint | **Attention-Enhanced U-Net for COVID-19 Lung Segmentation in CT** — with Lazar Davic · [arXiv](https://doi.org/10.48550/arXiv.2505.12298) |
-| 2025 | 🎤 Talk | **ESBME 2025** — conference presentation · [DOI](https://doi.org/10.13140/RG.2.2.20995.98086) |
+| 2026 | Book | **Regulatory Compass: Your Guide to Medical Device Laws** - with Khadija Khan · [DOI](https://doi.org/10.5281/zenodo.18505588) |
+| 2026 | Preprint | **Intracoronary OCT Image Processing & Vessel Classification Using ML** - with Lambros Athanasiou · [arXiv](https://doi.org/10.48550/arXiv.2602.15579) |
+| 2026 | Dataset | **Liver MRI LI-RADS Lexicon for VLM Explanation Generation (v2.0)** · [DOI](https://doi.org/10.5281/zenodo.21702498) |
+| 2026 | Journal | **Physiological Stress Detection Prototype Using ECG and PPG Signals** |
+| 2025 | Preprint | **Attention-Enhanced U-Net for COVID-19 Lung Segmentation in CT** - with Lazar Davic · [arXiv](https://doi.org/10.48550/arXiv.2505.12298) |
+| 2025 | Talk | **ESBME 2025** - conference presentation · [DOI](https://doi.org/10.13140/RG.2.2.20995.98086) |
 
 Full list on [ORCID](https://orcid.org/0009-0003-0449-8336).
 
@@ -142,7 +142,7 @@ Full list on [ORCID](https://orcid.org/0009-0003-0449-8336).
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 💼 Experience
+## Experience
 
 ```text
 2026  ●  Master's Thesis Researcher ............ Erasmus MC, Rotterdam
@@ -153,17 +153,17 @@ Full list on [ORCID](https://orcid.org/0009-0003-0449-8336).
 2022  ●  Trainee Biomedical Engineer ........... Siemens Healthineers
 ```
 
-## 🎓 Education
+## Education
 
 ```text
-2024–26  ●  MSc Biomedical Engineering — Erasmus Mundus EMMBIOME (EU)
-2023–24  ●  MSc Artificial Intelligence & Robotics — University of Jordan
-2018–23  ●  BSc Biomedical Engineering — Jordan Univ. of Science & Technology
+2024-26  ●  MSc Biomedical Engineering - Erasmus Mundus EMMBIOME (EU)
+2023-24  ●  MSc Artificial Intelligence & Robotics - University of Jordan
+2018-23  ●  BSc Biomedical Engineering - Jordan Univ. of Science & Technology
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📊 GitHub activity
+## GitHub activity
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amallh&layout=compact&theme=radical&hide_border=true" />
