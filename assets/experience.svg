@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="508" viewBox="0 0 860 508" font-family="'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif">
+<style>
+.bg{fill:#141321}
+.role{fill:#ffffff;font-size:17px;font-weight:600}
+.org{fill:#fe428e;font-size:14px;font-weight:500}
+.meta{fill:#a9fef7;font-size:12px;font-weight:600}
+.pill{fill:#1f1d3a;stroke:#36BCF7;stroke-opacity:.5}
+.item{opacity:0;animation:in .7s cubic-bezier(.2,.8,.2,1) forwards}
+.line{stroke-dasharray:2000;stroke-dashoffset:2000;animation:draw 2.4s ease-out forwards}
+.dot{animation:pulse 2.4s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+.ring{fill:none;stroke:#fe428e;opacity:0;animation:ring 2.4s ease-out infinite;transform-box:fill-box;transform-origin:center}
+.card{fill:#1b1a2e;stroke:#2c2a4a}
+.item:hover .card{stroke:#36BCF7}
+@keyframes in{from{opacity:0;transform:translateX(24px)}to{opacity:1;transform:translateX(0)}}
+@keyframes draw{to{stroke-dashoffset:0}}
+@keyframes pulse{0%,100%{transform:scale(1)}50%{transform:scale(1.25)}}
+@keyframes ring{0%{opacity:.8;transform:scale(1)}100%{opacity:0;transform:scale(2.6)}}
+</style>
+<defs><linearGradient id="g" gradientUnits="userSpaceOnUse" x1="0" y1="40" x2="0" y2="460"><stop offset="0" stop-color="#36BCF7"/><stop offset=".5" stop-color="#a855f7"/><stop offset="1" stop-color="#fe428e"/></linearGradient>
+<linearGradient id="gh" gradientUnits="userSpaceOnUse" x1="40" y1="0" x2="820" y2="0"><stop offset="0" stop-color="#36BCF7"/><stop offset=".5" stop-color="#a855f7"/><stop offset="1" stop-color="#fe428e"/></linearGradient></defs>
+<rect class="bg" width="860" height="508" rx="14"/>
+<path class="line" d="M60 50 V 460" stroke="url(#g)" stroke-width="3" stroke-linecap="round"/>
+<g class="item" style="animation-delay:0.30s">
+<circle class="ring" cx="60" cy="60" r="7" style="animation-delay:0.30s"/>
+<circle class="dot" cx="60" cy="60" r="7" fill="#fe428e" stroke="#141321" stroke-width="3" style="animation-delay:0.30s"/>
+<rect class="card" x="90" y="32" width="740" height="64" rx="10"/>
+<text class="role" x="112" y="59">Master's Thesis Researcher</text>
+<text class="org" x="112" y="81">Erasmus MC<tspan fill="#8b8aa6" font-weight="400">  ·  Rotterdam, NL</tspan></text>
+<rect class="pill" x="651.6" y="49" width="168.4" height="24" rx="12"/>
+<text class="meta" x="735.8" y="65" text-anchor="middle">Feb 2026 – Jul 2026</text>
+</g>
+<g class="item" style="animation-delay:0.58s">
+<circle class="ring" cx="60" cy="138" r="7" style="animation-delay:0.58s"/>
+<circle class="dot" cx="60" cy="138" r="7" fill="#fe428e" stroke="#141321" stroke-width="3" style="animation-delay:0.58s"/>
+<rect class="card" x="90" y="110" width="740" height="64" rx="10"/>
+<text class="role" x="112" y="137">AI Developer</text>
+<text class="org" x="112" y="159">Ofoundation<tspan fill="#8b8aa6" font-weight="400">  ·  Utrecht, NL</tspan></text>
+<rect class="pill" x="651.6" y="127" width="168.4" height="24" rx="12"/>
+<text class="meta" x="735.8" y="143" text-anchor="middle">Apr 2025 – Oct 2025</text>
+</g>
+<g class="item" style="animation-delay:0.86s">
+<circle class="ring" cx="60" cy="216" r="7" style="animation-delay:0.86s"/>
+<circle class="dot" cx="60" cy="216" r="7" fill="#fe428e" stroke="#141321" stroke-width="3" style="animation-delay:0.86s"/>
+<rect class="card" x="90" y="188" width="740" height="64" rx="10"/>
+<text class="role" x="112" y="215">Team Lead &amp; Machine Learning Engineer</text>
+<text class="org" x="112" y="237">CNTXT AI<tspan fill="#8b8aa6" font-weight="400">  ·  Abu Dhabi, UAE</tspan></text>
+<rect class="pill" x="651.6" y="205" width="168.4" height="24" rx="12"/>
+<text class="meta" x="735.8" y="221" text-anchor="middle">Apr 2024 – Mar 2025</text>
+</g>
+<g class="item" style="animation-delay:1.14s">
+<circle class="ring" cx="60" cy="294" r="7" style="animation-delay:1.14s"/>
+<circle class="dot" cx="60" cy="294" r="7" fill="#fe428e" stroke="#141321" stroke-width="3" style="animation-delay:1.14s"/>
+<rect class="card" x="90" y="266" width="740" height="64" rx="10"/>
+<text class="role" x="112" y="293">Service &amp; Validation Engineer Intern</text>
+<text class="org" x="112" y="315">Cadmium Laboratory Equipment</text>
+<rect class="pill" x="765.6" y="283" width="54.4" height="24" rx="12"/>
+<text class="meta" x="792.8" y="299" text-anchor="middle">2023</text>
+</g>
+<g class="item" style="animation-delay:1.42s">
+<circle class="ring" cx="60" cy="372" r="7" style="animation-delay:1.42s"/>
+<circle class="dot" cx="60" cy="372" r="7" fill="#fe428e" stroke="#141321" stroke-width="3" style="animation-delay:1.42s"/>
+<rect class="card" x="90" y="344" width="740" height="64" rx="10"/>
+<text class="role" x="112" y="371">Trainee, Laboratory Equipment</text>
+<text class="org" x="112" y="393">New Universal Laboratory Equipment</text>
+<rect class="pill" x="765.6" y="361" width="54.4" height="24" rx="12"/>
+<text class="meta" x="792.8" y="377" text-anchor="middle">2023</text>
+</g>
+<g class="item" style="animation-delay:1.70s">
+<circle class="ring" cx="60" cy="450" r="7" style="animation-delay:1.70s"/>
+<circle class="dot" cx="60" cy="450" r="7" fill="#fe428e" stroke="#141321" stroke-width="3" style="animation-delay:1.70s"/>
+<rect class="card" x="90" y="422" width="740" height="64" rx="10"/>
+<text class="role" x="112" y="449">Trainee Biomedical Engineer</text>
+<text class="org" x="112" y="471">Siemens Healthineers</text>
+<rect class="pill" x="765.6" y="439" width="54.4" height="24" rx="12"/>
+<text class="meta" x="792.8" y="455" text-anchor="middle">2022</text>
+</g>
+</svg>
